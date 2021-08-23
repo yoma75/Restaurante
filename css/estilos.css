@@ -1,0 +1,44 @@
+ul {
+  list-style: none;
+}
+
+li {
+  color: white;
+}
+
+.img_platos {
+  height: 180px;
+  width: 180px;
+  object-fit: cover;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 23px;
+}
+
+h5 {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.redes_sociales a i {
+  font-size: 30px;
+  color: white;
+  padding-top: 17px;
+  margin-left: 30px;
+}
+
+.info ul li {
+  display: flex;
+  justify-content: center;
+}
+
+.info .bajar {
+  margin-top: 38px;
+}
